@@ -33,7 +33,7 @@ function Header() {
         </Button>
 
         <Link to="/" className="ml-4 md:ml-0 flex items-center gap-2">
-          <span className="text-xl font-bold">StyleHub</span>
+          <span className="text-xl font-bold">Hamro-Ghar</span>
         </Link>
 
         <nav className="mx-6 hidden md:flex items-center gap-6 text-sm">
